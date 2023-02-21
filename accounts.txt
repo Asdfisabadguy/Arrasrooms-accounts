@@ -79,6 +79,33 @@
     "startingTank": "basic",
     "name": "2014#1782",
     "note": "Senior beta tester"
-  
+  },
+  {
+    "key": "TOKEN_pojdosojfdos_TOKEN",
+    "discordID": "741709207363125306",
+    "nameColor": "#FFFFFF", 
+    "testbedTank": "betatester",
+    "startingTank": "basic",
+    "name": "∞ Dominator ∞#8690",
+    "note": "Beta Tester"
+  },
+  {
+    "key": "toeken",
+    "discordID": "892027440967348274",
+    "nameColor": "#FFFF00", 
+    "testbedTank": "betatester",
+    "startingTank": "basic",
+    "name": "Charlie8787#8404",
+    "note": "Temp Moderator"
+  },
+  {
+  "key": "TOKEN_TEST_SUS_SUSSY_BAKA_EAT_HAMBURGER.COM_HEHE",
+  "discordID": "98239489483904384984",
+  "nameColor": "#FFFFFF",
+  "testbedTank": "testbed",
+  "startingTank": "basic",
+  "name": "DiscordUser#0000",
+  "role": "TEMP",
+  "note": "TEMP Testing Account"
   }
-] 
+]
